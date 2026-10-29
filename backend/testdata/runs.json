@@ -1,0 +1,6 @@
+[
+  {"id": 101, "workflow": "CI", "conclusion": "success"},
+  {"id": 102, "workflow": "CI", "conclusion": "failure"},
+  {"id": 103, "workflow": "Deploy", "conclusion": "success"},
+  {"id": 104, "workflow": "CI", "conclusion": "cancelled"}
+]
