@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"example.com/pipeline-lens/backend/workflow"
+	"github.com/AntohaY/pipeline-lens/backend/workflow"
 )
 
 func main() {

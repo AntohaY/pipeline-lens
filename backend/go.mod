@@ -1,3 +1,3 @@
-module example.com/pipeline-lens/backend
+module github.com/AntohaY/pipeline-lens/backend
 
 go 1.27.3
